@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dominiccheang/">
+  <a href="https://www.linkedin.com/in/cheangdominic/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
   </a>
   <img src="https://img.shields.io/github/followers/cheangdominic?label=Followers" alt="Followers">
