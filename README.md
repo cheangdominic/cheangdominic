@@ -1,4 +1,4 @@
-<h1 align="center" style="background: linear-gradient(90deg, #6a11cb, #2575fc); -webkit-background-clip: text; color: transparent;">
+<h1 align="center" -webkit-background-clip: text; color: transparent;">
   Dominic Cheang
 </h1>
 
