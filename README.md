@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Computer Systems Technology graduate at BCIT focused on building scalable applications, modern web platforms, and intelligent automation systems.
+  Computer Systems Technology graduate at BCIT focused on building scalable applications, modern web platforms, and intelligent systems.
 </p>
 
 ---
