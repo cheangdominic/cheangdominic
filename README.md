@@ -60,6 +60,6 @@
 
 <div align="center">
 
-💬 Always interested in building impactful software and collaborating on ambitious projects.
+Always interested in building impactful software and collaborating on ambitious projects.
 
 </div>
