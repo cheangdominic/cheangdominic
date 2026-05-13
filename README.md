@@ -14,10 +14,10 @@
 
 ## 🧠 About Me
 
-- 🚀 Passionate about full-stack development and backend engineering  
-- 🛠 Building practical software with clean architecture and modern design  
-- 📚 Continuously learning new technologies and improving technical depth  
-- 🤝 Open to internships, collaborations, and software engineering opportunities  
+- Passionate about full-stack development and backend engineering  
+- Building practical software with clean architecture and modern design  
+- Continuously learning new technologies and improving technical depth  
+- Open to internships, collaborations, and software engineering opportunities  
 
 ---
 
