@@ -47,15 +47,23 @@
   </tr>
 </table>
 
+<div align="center">
+
+![Followers](https://img.shields.io/github/followers/cheangdominic?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=cheangdominic&style=for-the-badge&color=blueviolet)
+![Open To Work](https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge)
+
+</div>
+
 ---
 
 ## ‣ Contribution Activity
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SehajGill23/SehajGill23/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SehajGill23/SehajGill23/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SehajGill23/SehajGill23/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cheangdominic/cheangdominic/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cheangdominic/cheangdominic/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/cheangdominic/cheangdominic/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
