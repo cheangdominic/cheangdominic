@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cheangdominic)
-[![Email](https://img.shields.io/badge/Email-Contact-5f77ff?style=for-the-badge&logo=outlook&logoColor=white)](mailto:d.cheang@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-5f77ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d.cheang01@gmail.com)
 
 </div>
 
