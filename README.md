@@ -61,10 +61,6 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/cheangdominic?style=for-the-badge&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=cheangdominic&style=for-the-badge&color=blueviolet)
-![Open To Work](https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge)
-
 </div>
 
 ---
