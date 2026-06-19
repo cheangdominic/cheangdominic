@@ -22,6 +22,10 @@
 - I'm passionate about writing clean, readable code and continuously improving my development workflow.
 - Outside of coursework and work experience, I spend time deepening my understanding of data structures, algorithms, and modern software engineering practices.
 
+
+## ‣ Certifications
+
+- 🎓 CS50P – Introduction to Programming with Python (Harvard University)
 ---
 
 ## ‣ Tech Stack
@@ -74,10 +78,6 @@
     <img width="100%" alt="GitHub contribution snake" src="https://raw.githubusercontent.com/cheangdominic/cheangdominic/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-
-## ‣ Certifications
-
-- 🎓 CS50P – Introduction to Programming with Python (Harvard University)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e3a8a,50:2563eb,100:0a0f2c" width="100%" alt="Footer" />
