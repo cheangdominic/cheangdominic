@@ -22,10 +22,12 @@
 - I'm passionate about writing clean, readable code and continuously improving my development workflow.
 - Outside of coursework and work experience, I spend time deepening my understanding of data structures, algorithms, and modern software engineering practices.
 
+---
 
 ## ‣ Certifications
 
 - 🎓 CS50P – Introduction to Programming with Python (Harvard University)
+  
 ---
 
 ## ‣ Tech Stack
