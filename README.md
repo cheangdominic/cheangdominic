@@ -26,7 +26,7 @@
 
 ## ‣ Education & Certifications
 
-- CST Diploma (British Columbia Institute of Technology)
+- Computer Systems Technology Diploma (British Columbia Institute of Technology)
 - CS50P - Introduction to Programming with Python (Harvard University)
   
 ---
