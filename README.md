@@ -75,6 +75,10 @@
   </picture>
 </div>
 
+## ‣ Certifications
+
+- 🎓 CS50P – Introduction to Programming with Python (Harvard University)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e3a8a,50:2563eb,100:0a0f2c" width="100%" alt="Footer" />
 </div>
