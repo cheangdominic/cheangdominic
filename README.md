@@ -57,7 +57,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="57%" align="center">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=cheangdominic&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=cheangdominic&theme=highcontrast&hide_border=true&timezone=America/Vancouver" alt="GitHub Streak" />
     </td>
     <td width="43%" align="center">
       <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cheangdominic&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6&hide_progress=true" alt="Top Languages" />
